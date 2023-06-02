@@ -410,7 +410,7 @@ __________________×______________________
  
   Github   :  DARK-TOXIC
 
-  Facebook: Mohammed Mohin.    (50% Ok Account Open Just Now)❤️
+  Facebook: Mohammed Mohin.
 
   WhatsApp: +8801822402154
 __________________×______________________\033[1;37m""")
