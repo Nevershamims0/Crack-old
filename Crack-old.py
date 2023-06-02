@@ -410,9 +410,9 @@ __________________×______________________
  
   Github   :  DARK-TOXIC
 
-  Facebook: Mohammed Mohin.
+  Facebook: Mohammed Mohin
 
-  WhatsApp: +8801822402154
+  WhatsApp: +8801768794087
 __________________×______________________\033[1;37m""")
 
 class Main:
